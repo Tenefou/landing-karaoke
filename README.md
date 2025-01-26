@@ -1,2 +1,1 @@
-# landing-karaoke
-A simple landing page for a imaginary karaoke.
+Landing page for a fictional karaoke company!
